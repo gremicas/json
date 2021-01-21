@@ -1,7 +1,6 @@
 { "items":[
-  {"name": "200 - OK", "id":1, "img":"https:\/\/http.cat\/200.jpg\/"},
-  {"name": "301 - Moved Permanently ", "id":2, "img":"https:\/\/http.cat\/301.jpg\/"},
-  {"name": "401 - Unauthorized", "id":3, "img":"https:\/\/http.cat\/401.jpg\/"},
-  {"name": "404 - Not Found", "id":5, "img":"https:\/\/http.cat\/404.jpg\/"},
-  {"name": "418 - I'm A Teapot", "id":4, "img":"https:\/\/http.cat\/418.jpg\/"}  
+  {"name": "200", "id":1, "img":"https:\/\/http.cat\/200.jpg\/"},
+  {"name": "201", "id":2, "img":"https:\/\/http.cat\/201.jpg\/"},
+  {"name": "202", "id":3, "img":"https:\/\/http.cat\/202.jpg\/"},
+  {"name": "203", "id":4, "img":"https:\/\/http.cat\/203.jpg\/"}
 ]}
